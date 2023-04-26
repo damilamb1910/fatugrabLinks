@@ -41,7 +41,7 @@ document.addEventListener('click',(e)=>{
       }else if(e.target.closest('#instagram')){
         cambiarClase()
         setTimeout( ()=>{
-         window.open('https://goo.gl/maps/zDntBec9ddMwACW17', '_blank')
+         window.open('https://www.instagram.com/fatugrab.oeste.1/', '_blank')
          setTimeout(devolverClase,100)
         },2800)
 
