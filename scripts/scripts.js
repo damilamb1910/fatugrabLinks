@@ -26,7 +26,7 @@ document.addEventListener('click',(e)=>{
 
         cambiarClase()
        setTimeout( ()=>{
-        window.open('https://fatugrab.netlify.app/', '_blank')
+        window.open('https://grabatex.netlify.app/', '_blank')
         setTimeout(devolverClase,100)
        },2800)
 
@@ -50,7 +50,7 @@ document.addEventListener('click',(e)=>{
         
         cambiarClase()
         setTimeout( ()=>{
-         window.open('https://goo.gl/maps/zDntBec9ddMwACW17', '_blank')
+         window.open('https://maps.app.goo.gl/PNGhQ4aJiidMbjzj7', '_blank')
          setTimeout(devolverClase,100)
         },2800)
        

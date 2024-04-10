@@ -6,7 +6,7 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: white;
+    background-color: rgb(78, 76, 76);
   }
   
   code {
@@ -15,7 +15,7 @@ body {
   }
   
   header img{
-    width: 100%;
+    width: 300px;
     
   }
 h3{
@@ -23,8 +23,7 @@ h3{
   font-size: 20px;
 }
   .prophile__photo{
-    margin-top: 20px;
-   width: 150px;
+   width: 350px;
    padding: 5px;
    
     
@@ -34,7 +33,7 @@ h3{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: white;
+    background-color: rgb(78, 76, 76);;
     position: relative;
     margin-bottom: 50px;
   }
