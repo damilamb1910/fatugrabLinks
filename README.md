@@ -1,4 +1,4 @@
-# Fatugrab Oeste - Tienda Online de Insumos para Serigrafía
+# Grabatex - Tienda Online de Insumos para Serigrafía
 ![Bade en desarrollo](https://img.shields.io/badge/<STATUS>-<EN%20DESAROLLO>-<green>)
 
 
