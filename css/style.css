@@ -6,7 +6,7 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: rgb(78, 76, 76);
+    background-color: white;
   }
   
   code {
@@ -23,7 +23,7 @@ h3{
   font-size: 20px;
 }
   .prophile__photo{
-   width: 350px;
+   width: 250px;
    padding: 5px;
    
     
@@ -33,7 +33,7 @@ h3{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(78, 76, 76);;
+    background-color: white;
     position: relative;
     margin-bottom: 50px;
   }
